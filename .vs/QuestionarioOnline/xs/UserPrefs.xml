@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{AD6BE810-40A4-452A-B0B4-2120CD004017}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.QuestionarioOnline.Web.Mvc FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuestionarioOnline.Domain/Entities/UsuarioQuestionarioResposta.cs">
+    <Files>
+      <File FileName="QuestionarioOnline.Infra.Data/Class1.cs" Line="1" Column="1" />
+      <File FileName="QuestionarioOnline.Domain/Entities/Pergunta.cs" Line="22" Column="27" />
+      <File FileName="QuestionarioOnline.Domain/Entities/Resposta.cs" Line="16" Column="22" />
+      <File FileName="QuestionarioOnline.Domain/Entities/Usuario.cs" Line="7" Column="1" />
+      <File FileName="QuestionarioOnline.Domain/Interface/IPerguntaRepository.cs" Line="10" Column="9" />
+      <File FileName="QuestionarioOnline.Domain/Entities/Questionario.cs" Line="30" Column="18" />
+      <File FileName="QuestionarioOnline.Domain/Interface/IUsuarioRepository.cs" Line="14" Column="51" />
+      <File FileName="QuestionarioOnline.Domain/Interface/IQuestionarioRepository.cs" Line="10" Column="42" />
+      <File FileName="QuestionarioOnline.Domain/Entities/RespostaUsuario.cs" Line="22" Column="26" />
+      <File FileName="QuestionarioOnline.Domain/Interface/IRespostaUsuario.cs" Line="13" Column="1" />
+      <File FileName="QuestionarioOnline.Domain/Interface/IRespostaRepository.cs" Line="10" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuestionarioOnline" expanded="True">
+            <Node name="QuestionarioOnline.Domain" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="UsuarioQuestionarioResposta.cs" selected="True" />
+              </Node>
+              <Node name="Interface" expanded="True" />
+            </Node>
+            <Node name="QuestionarioOnline.Infra.Data" expanded="True" />
+            <Node name="QuestionarioOnline.Web.Mvc" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QuestionarioOnline.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.QuestionarioOnline.Infra.Data FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
